@@ -3,5 +3,5 @@ apple@@@@@@@
 apple
 bad apple
 bad apple
-edit hot_fix
+edit hot_fix master
 edit hot_fix two
