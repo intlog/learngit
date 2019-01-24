@@ -8,3 +8,4 @@ add by github in chrome 2
 add by github in chrome 3
 add by webstorm 2
 add by hot_fix2
+add by hot_fix_ingithub
